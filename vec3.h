@@ -6,7 +6,7 @@
  *
  * Summary of File:
  *
- *    vec3.cpp is a simple 3 element vector class that is
+ *    vec3.cpp is a simple 3-dimensional vector class that is
  *    capable of performing the following operations:
  *
  *    - Vector Addition
