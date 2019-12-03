@@ -14,7 +14,7 @@
  *    - Dot Product
  *    - Vector Magnitude
  *    - Normalization
- *     - Negation
+ *    - Negation
  *
  *    There are also built in functions for printing and
  *    updating a player position.
